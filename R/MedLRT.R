@@ -319,6 +319,7 @@ LR_pval=function(dat,total_iter,tol,total_iter_lambda,m)
 #' }
 #' @author Wei Hao <weihao@umich.edu>
 #' @examples
+#' ### A simulated example with no significant mediation effects
 #' n = 100
 #' q = 10
 #' L = 3
