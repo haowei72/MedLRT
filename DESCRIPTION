@@ -1,0 +1,13 @@
+Package: MedLRT
+Type: Package
+Title: a simultaneous likelihood ratio test for joint mediation effects of multiple mediators
+Version: 0.1.0
+Author: Wei Hao <weihao@umich.edu>
+Maintainer: Wei Hao <weihao@umich.edu>
+Description: This package implements a statistical method for testing mediation effects of multiple mediators
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: mvtnorm
+Depends: mvtnorm
+RoxygenNote: 7.1.2
