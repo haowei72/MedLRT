@@ -40,7 +40,7 @@ LRT. The default value is 10000.}
 \item{seed}{the random seed. The default value is 100.}
 }
 \value{
-a list object of two elements
+a list object of five elements
 \describe{
 \item{pvalue}{p value of the likelihood ratio test}
 \item{chisq_pvalue}{p value based on the chi-squared distribution}

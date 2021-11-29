@@ -307,7 +307,7 @@ LR_pval=function(dat,total_iter,tol,total_iter_lambda,m)
 #' @param m the Monte Carlo sample size for simulating the null distribution of
 #' LRT. The default value is 10000.
 #' @param seed the random seed. The default value is 100.
-#' @return a list object of two elements
+#' @return a list object of five elements
 #' \describe{
 #' \item{pvalue}{p value of the likelihood ratio test}
 #' \item{chisq_pvalue}{p value based on the chi-squared distribution}
